@@ -7,41 +7,41 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ## 2026 World Cup Qualified Countries
 
 **AFC (Asia):**
-- Australia
-- Iran
-- Japan
-- Jordan
-- Qatar
-- Saudi Arabia
-- South Korea
-- Uzbekistan
+- 🇦🇺 Australia
+- 🇮🇷 Iran
+- 🇯🇵 Japan
+- 🇯🇴 Jordan
+- 🇶🇦 Qatar
+- 🇸🇦 Saudi Arabia
+- 🇰🇷 South Korea
+- 🇺🇿 Uzbekistan
 
 **CAF (Africa):**
-- Algeria
-- Cape Verde
-- Egypt
-- Ghana
-- Ivory Coast
-- Morocco
-- Senegal
-- South Africa
-- Tunisia
+- 🇩🇿 Algeria
+- 🇨🇻 Cape Verde
+- 🇪🇬 Egypt
+- 🇬🇭 Ghana
+- 🇨🇮 Ivory Coast
+- 🇲🇦 Morocco
+- 🇸🇳 Senegal
+- 🇿🇦 South Africa
+- 🇹🇳 Tunisia
 
 **CONCACAF (North/Central America & Caribbean):**
-- Canada (co-host)
-- Mexico (co-host)
-- United States (co-host)
+- 🇨🇦 Canada (co-host)
+- 🇲🇽 Mexico (co-host)
+- 🇺🇸 United States (co-host)
 
 **CONMEBOL (South America):**
-- Argentina
-- Brazil
-- Colombia
-- Ecuador
-- Paraguay
-- Uruguay
+- 🇦🇷 Argentina
+- 🇧🇷 Brazil
+- 🇨🇴 Colombia
+- 🇪🇨 Ecuador
+- 🇵🇾 Paraguay
+- 🇺🇾 Uruguay
 
 **OFC (Oceania):**
-- New Zealand
+- 🇳🇿 New Zealand
 
 **UEFA (Europe):**
-- England
+- 🏴 England
