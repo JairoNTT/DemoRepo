@@ -45,3 +45,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 **UEFA (Europe):**
 - 🏴 England
+
+## San Marino 2026 World Cup Qualifier Results
+
+- 21 Mar 2025: 🇨🇾 Cyprus 2–0 🇸🇲 San Marino
+- 24 Mar 2025: 🇸🇲 San Marino 1–5 🇷🇴 Romania (Goal: Zannoni)
+- 7 Jun 2025: 🇧🇦 Bosnia and Herzegovina 1–0 🇸🇲 San Marino
+- 10 Jun 2025: 🇸🇲 San Marino 0–4 🇦🇹 Austria
+- 6 Sep 2025: 🇸🇲 San Marino 0–6 🇧🇦 Bosnia and Herzegovina
+- 9 Oct 2025: 🇦🇹 Austria 10–0 🇸🇲 San Marino
+- 12 Oct 2025: 🇸🇲 San Marino 0–4 🇨🇾 Cyprus
