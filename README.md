@@ -55,4 +55,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 - 6 Sep 2025: 🇸🇲 San Marino 0–6 🇧🇦 Bosnia and Herzegovina
 - 9 Oct 2025: 🇦🇹 Austria 10–0 🇸🇲 San Marino
 - 12 Oct 2025: 🇸🇲 San Marino 0–4 🇨🇾 Cyprus
-- 18 Nov 2025: 🇷🇴 Romania vs 🇸🇲 San Marino (to be played in Romania)
+- 18 Nov 2025: 🇷🇴 Romania vs 🇸🇲 San Marino (to be played)
