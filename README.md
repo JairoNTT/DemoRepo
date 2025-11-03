@@ -4,7 +4,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-## 2026 World Cup — Qualified countries (to date)
+## Qualified Teams
 
 ### AFC (Asia)
 - 🇦🇺 Australia
@@ -48,14 +48,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Total qualified (to date): 28 teams
 
-## San Marino — 2026 World Cup qualifying (selected fixtures/results)
+## Fixtures
 
-Below are San Marino's 2026 FIFA World Cup qualification fixtures and results (dates in 2025). Where available, results and venues are shown. Note: a Romania fixture on 18 November 2025 is listed here per schedule.
-
-- 21 March 2025 — 🇨🇾 Cyprus 2–0 🇸🇲 San Marino — AEK Arena, Larnaca (World Cup qualifier)
-- 24 March 2025 — 🇸🇲 San Marino 1–5 🇷🇴 Romania — Serravalle (World Cup qualifier)
-- 7 June 2025 — 🇧🇦 Bosnia and Herzegovina 1–0 🇸🇲 San Marino — Bilino Polje, Zenica (World Cup qualifier)
-- 10 June 2025 — 🇸🇲 San Marino 0–4 🇦🇹 Austria — (World Cup qualifier)
-- 6 September 2025 — 🇸🇲 San Marino 0–6 🇧🇦 Bosnia and Herzegovina — (World Cup qualifier)
-- 12 October 2025 — 🇸🇲 San Marino 0–4 🇨🇾 Cyprus — (World Cup qualifier)
-- 18 November 2025 — 🇷🇴 Romania vs 🇸🇲 San Marino — scheduled in Romania (World Cup qualifier)
+- 21 Mar 2025 — 🇨🇾 Cyprus 2–0 🇸🇲 San Marino
+- 24 Mar 2025 — 🇸🇲 San Marino 1–5 🇷🇴 Romania
+- 7 Jun 2025 — 🇧🇦 Bosnia and Herzegovina 1–0 🇸🇲 San Marino
+- 10 Jun 2025 — 🇸🇲 San Marino 0–4 🇦🇹 Austria
+- 6 Sep 2025 — 🇸🇲 San Marino 0–6 🇧🇦 Bosnia and Herzegovina
+- 12 Oct 2025 — 🇸🇲 San Marino 0–4 🇨🇾 Cyprus
+- 18 Nov 2025 — 🇷🇴 Romania vs 🇸🇲 San Marino
