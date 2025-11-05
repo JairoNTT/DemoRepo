@@ -55,5 +55,6 @@ Total qualified (to date): 28 teams
 - 7 Jun 2025 — 🇧🇦 Bosnia and Herzegovina 1–0 🇸🇲 San Marino
 - 10 Jun 2025 — 🇸🇲 San Marino 0–4 🇦🇹 Austria
 - 6 Sep 2025 — 🇸🇲 San Marino 0–6 🇧🇦 Bosnia and Herzegovina
+- 9 Oct 2025 — 🇦🇹 Austria 10–0 🇸🇲 San Marino
 - 12 Oct 2025 — 🇸🇲 San Marino 0–4 🇨🇾 Cyprus
 - 18 Nov 2025 — 🇷🇴 Romania vs 🇸🇲 San Marino
